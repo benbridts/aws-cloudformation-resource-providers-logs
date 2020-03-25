@@ -42,7 +42,8 @@
         "create": {
             "permissions": [
                 "logs:DescribeLogGroups",
-                "logs:CreateLogGroup"
+                "logs:CreateLogGroup",
+                "logs:PutRetentionPolicy"
             ]
         },
         "read": {
