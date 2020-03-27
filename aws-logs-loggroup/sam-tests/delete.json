@@ -1,0 +1,18 @@
+{
+  "credentials": {
+    "accessKeyId": "",
+    "secretAccessKey": "",
+    "sessionToken": ""
+  },
+  "action": "DELETE",
+  "request": {
+    "clientRequestToken": "aac577a3-08bd-4989-84e1-510b89a61c2c",
+    "desiredResourceState": {
+      "LogGroupName": "/",
+      "RetentionInDays": 1
+    },
+    "previousResourceState": null,
+    "logicalResourceIdentifier": null
+  },
+  "callbackContext": null
+}
